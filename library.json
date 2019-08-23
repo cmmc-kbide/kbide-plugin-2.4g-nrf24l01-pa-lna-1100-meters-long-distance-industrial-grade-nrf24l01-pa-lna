@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-2.4g-nrf24l01-pa-lna-1100-meters-long-distance-industrial-grade-nrf24l01-pa-lna",
+  "title": "2.4g-nrf24l01-pa-lna-1100-meters-long-distance-industrial-grade-nrf24l01-pa-lna",
+  "keywords": "2.4g-nrf24l01-pa-lna-1100-meters-long-distance-industrial-grade-nrf24l01-pa-lna, esp32, esp8266, arduino",
+  "description": "2.4g-nrf24l01-pa-lna-1100-meters-long-distance-industrial-grade-nrf24l01-pa-lna plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-2.4g-nrf24l01-pa-lna-1100-meters-long-distance-industrial-grade-nrf24l01-pa-lna/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-2.4g-nrf24l01-pa-lna-1100-meters-long-distance-industrial-grade-nrf24l01-pa-lna/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
